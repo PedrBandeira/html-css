@@ -1,5 +1,5 @@
-# html-css
- ## Curso de HTML5  e CSS3 do Curso em Vídeo
+# html-css — Curso de HTML5  e CSS3 do Curso em Vídeo
+
 - [Acessar página incial] (https://pedrbandeira.github.io/html-css)
 - [Acessar repositório] (https://github.com/PedrBandeira/html-css)
 - [Meu perfil no GitHub] (https://github.com/PedrBandeira)
@@ -23,9 +23,9 @@
 - [x] Módulo 3:
     - [x] Exercícios (21/23)
     - [x] Desafios (Não há desafios)
-- [] Módulo 4:
-    - [] Exercícios (24/?)
-    - [] Desafios (13/15)
+- [-] Módulo 4:
+    - [-] Exercícios (24/?)
+    - [-] Desafios (13/15)
 ---
 Conteúdo do Curso:
 ### Módulo 1✅
