@@ -17,6 +17,11 @@
             font-weight: bolder;
             padding: 8px;
         }
+        /*
+        th {
+            background-color: black;
+            color: white;
+        }*/
         th, td {
             border: 1px solid black;
             padding: 8px;
@@ -24,14 +29,20 @@
         col.cnome {
             background-color: chartreuse;
         }
+        col.cgrupo {
+            background-color: red;
+        }
+        col.cprof {
+            background-color: gray;
+        }
     </style>
 </head>
 <body>
+    <h1>Exercício de Tabela</h1>
     <table>
         <colgroup>
             <col class="cnome">
-            <col class="csexo">
-            <col class="cidade">
+            <col class="cgrupo" span="2">
             <col class="cprof">
         </colgroup>
         <caption>Cadastro</caption>
