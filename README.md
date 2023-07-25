@@ -26,6 +26,7 @@
 - [] Módulo 4:
     - [] Exercícios (24/?)
     - [] Desafios (13/15)
+---
 Conteúdo do Curso:
 ### Módulo 1✅
 ***Exercícios:***
@@ -50,7 +51,7 @@ Conteúdo do Curso:
 [ex014](https://pedrbandeira.github.io/html-css/exercicios/ex014/pag002.html)
 [ex015](https://pedrbandeira.github.io/html-css/exercicios/ex015/index.html)
 [ex015](https://pedrbandeira.github.io/html-css/exercicios/ex015/pag002.html)
-
+---
 ***Desafios:***
 [d001](https://pedrbandeira.github.io/html-css/desafios/d001/index.html)
 [d002](https://pedrbandeira.github.io/html-css/desafios/d002/index.html)
@@ -67,7 +68,7 @@ Conteúdo do Curso:
 [d009](https://pedrbandeira.github.io/html-css/desafios/d009/curso-js.html)
 [d009](https://pedrbandeira.github.io/html-css/desafios/d009/curso-python.html)
 [d009](https://pedrbandeira.github.io/html-css/desafios/d009/curso-hardware.html)
-
+---
 ### Módulo 2✅
 ***Exercícios:***
 [ex016](https://pedrbandeira.github.io/html-css/exercicios/ex016/cor01.html)
@@ -78,10 +79,12 @@ Conteúdo do Curso:
 [ex018](https://pedrbandeira.github.io/html-css/exercicios/ex018/fonte02.html)
 [ex019](https://pedrbandeira.github.io/html-css/exercicios/ex019/seletor01.html)
 [ex020](https://pedrbandeira.github.io/html-css/exercicios/ex020/pseudoclasses.html)
+---
 ***Desafios:***
 [d010](https://pedrbandeira.github.io/html-css/desafios/d010/index.html)
 [d011](https://pedrbandeira.github.io/html-css/desafios/d011/index.html)
 [d012](https://pedrbandeira.github.io/html-css/desafios/d012/index.html)
+---
 ### Módulo 3✅
 ***Exercícios:***
 [ex021](https://pedrbandeira.github.io/html-css/exercicios/ex021/caixa01.html)
@@ -99,9 +102,10 @@ Conteúdo do Curso:
 [ex023](https://pedrbandeira.github.io/html-css/exercicios/ex023/tabela004.html)
 [ex023](https://pedrbandeira.github.io/html-css/exercicios/ex023/tabela005.html)
 [ex023](https://pedrbandeira.github.io/html-css/exercicios/ex023/tabela006.html)
-
+---
 ***Desafios:***
 **Não tem desafios**
+---
 ### Módulo 4✅
 ***Exercícios:***
 [ex024](https://pedrbandeira.github.io/html-css/exercicios/ex024/iframe001.html)
@@ -113,6 +117,7 @@ Conteúdo do Curso:
 [ex025](https://pedrbandeira.github.io/html-css/exercicios/ex025/form001.html)
 [ex025](https://pedrbandeira.github.io/html-css/exercicios/ex025/form002.html)
 [ex025](https://pedrbandeira.github.io/html-css/exercicios/ex025/form003.html)
+---
 ***Desafios:***
 [d013](https://pedrbandeira.github.io/html-css/desafios/d013/desafio-13-01.html)
 [d013](https://pedrbandeira.github.io/html-css/desafios/d013/desafio-13-02.html)
@@ -124,3 +129,4 @@ Conteúdo do Curso:
 [d015](https://pedrbandeira.github.io/html-css/desafios/d015/instagram.html)
 [d015](https://pedrbandeira.github.io/html-css/desafios/d015/twitter.html)
 [d015](https://pedrbandeira.github.io/html-css/desafios/d015/youtube.html)
+---
