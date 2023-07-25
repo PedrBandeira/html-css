@@ -10,9 +10,12 @@
         }
         table {
             border-collapse: collapse;
-            width: 300px;
         }
-        caption, th, td {
+        tr.cabecalho {
+            color: white;
+            background-color: #918e8e;
+        }
+        th, td {
             border: 1px solid black;
             padding: 10px;
             text-align: center;
@@ -21,22 +24,21 @@
 </head>
 <body>
     <table>
-        <caption>Notas</caption>
         <thead>
-            <tr>
-                <th rowspan="2">Área</th>
-                <th rowspan="2">Disciplinas</th>
-                <th colspan="2">Notas</th>
-                <th rowspan="2">Média</th>
+            <tr class="cabecalho">
+                <th scope="col" rowspan="2">Área</th>
+                <th scope="col" rowspan="2">Disciplinas</th>
+                <th scope="col" colspan="2">Notas</th>
+                <th scope="col" rowspan="2">Média</th>
             </tr>
-            <tr>
-                <th>Nota 1</th>
-                <th>Nota 2</th>
+            <tr class="cabecalho">
+                <th scope="col">Nota 1</th>
+                <th scope="col">Nota 2</th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <th rowspan="4">Exatas</th>
+                <th scope="rowgroup" rowspan="4">Exatas</th>
                 <td>Matemática</td>
                 <td>0.0</td>
                 <td>0.0</td>
@@ -61,13 +63,13 @@
                 <td>0.0</td>
             </tr>
 
-            <tr>
-                <th colspan="4">Média de Exatas</th>
+            <tr class="cabecalho">
+                <th scope="row" colspan="4">Média de Exatas</th>
                 <td>0.0</td>
             </tr>
 
             <tr>
-                <th rowspan="2">Humanas</th>
+                <th scope="rowgroup" rowspan="2">Humanas</th>
                 <td>História</td>
                 <td>0.0</td>
                 <td>0.0</td>
@@ -80,8 +82,8 @@
                 <td>0.0</td>
             </tr>
 
-            <tr>
-                <th colspan="4">Média de Humanas</th>
+            <tr class="cabecalho">
+                <th scope="row" colspan="4">Média de Humanas</th>
                 <td>0.0</td>
             </tr>
         </tbody>
