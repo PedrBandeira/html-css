@@ -14,17 +14,13 @@
     <form action="cadastro.php" method="post">
         <p>
             <label for="idcor">Cor:</label>
-            <input type="color" name="cor" id="idcor" value="#00ff00" list="cores-disponiveis">
-            <datalist id="cores-disponiveis">
-                <option value="#ff0000">Vermelho</option>
-                <option value="#ffff00">Amarelo</option>
-                <option value="#000000">Preto</option>
-                <option value="#0000ff">Azul</option>
-            </datalist>
+            <input type="color" name="cor" id="idcor" value="#0000" oninput="ihex.innerHTML = idcor.value">
+            <output name="hex" id="ihex">#0000</output>
         </p>
         <p>
             <label for="idrange">Nível de Satisfação (de 1 à 5):</label>
-            <input type="range" name="range" id="idrange" value="3" min="1" max="5" step="1" >
+            <input type="range" name="range" id="idrange" value="3" min="1" max="5" step="1" oninput="inivel.innerHTML = Number(idrange.value)">
+            <output name="nivel" id="inivel">3</output>
         </p>
         <p>
             <!-- Para enviar arquivos, o form deve usar o method "post"-->
