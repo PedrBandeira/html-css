@@ -48,7 +48,6 @@ Conteúdo do Curso:
 | Estilos Locais | [ex014](https://pedrbandeira.github.io/html-css/exercicios/ex014/index.html) [ex014](https://pedrbandeira.github.io/html-css/exercicios/ex014/pag002.html) |
 | Estilos Externos | [ex015](https://pedrbandeira.github.io/html-css/exercicios/ex015/index.html) [ex015](https://pedrbandeira.github.io/html-css/exercicios/ex015/pag002.html) |
 | Desafio | Link     |
-
 | Desafio das Mensagens     | [d001](https://pedrbandeira.github.io/html-css/desafios/d001/index.html) |
 | Desafio das Imagens     | [d002](https://pedrbandeira.github.io/html-css/desafios/d002/index.html) |
 | Desafio do Mapa     | [d003](https://pedrbandeira.github.io/html-css/desafios/d003/index.html) |
@@ -69,7 +68,6 @@ Conteúdo do Curso:
 | Seletores Personalizados     | [ex019](https://pedrbandeira.github.io/html-css/exercicios/ex019/seletor01.html) |
 | Pseudo-classes     | [ex020](https://pedrbandeira.github.io/html-css/exercicios/ex020/pseudoclasses.html) |
 | Desafio | Link     |
-
 | Desafio História do Android     | [d010](https://pedrbandeira.github.io/html-css/desafios/d010/index.html) |
 |   Desafio Astronauta (não realizado)   | [d011](https://pedrbandeira.github.io/html-css/desafios/d011/index.html) |
 | Cordel Moderno     | [d012](https://pedrbandeira.github.io/html-css/desafios/d012/index.html) |
@@ -77,6 +75,7 @@ Conteúdo do Curso:
 ### Módulo 3✅
 ***Exercícios:***
 | Exercício | Link     |
+|    :----:   |  :---: |
 | Modelo de Caixa     | [ex021](https://pedrbandeira.github.io/html-css/exercicios/ex021/caixa01.html) [ex021](https://pedrbandeira.github.io/html-css/exercicios/ex021/caixa02.html) |
 | Teste de Imagem de Fundo     | [ex022](https://pedrbandeira.github.io/html-css/exercicios/ex022/fundo001.html) [ex022](https://pedrbandeira.github.io/html-css/exercicios/ex022/fundo002.html) [ex022](https://pedrbandeira.github.io/html-css/exercicios/ex022/fundo003.html) [ex022](https://pedrbandeira.github.io/html-css/exercicios/ex022/fundo004.html) [ex022](https://pedrbandeira.github.io/html-css/exercicios/ex022/fundo005.html) [ex022](https://pedrbandeira.github.io/html-css/exercicios/ex022/fundo006.html) [ex022](https://pedrbandeira.github.io/html-css/exercicios/ex022/fundo007.html) |
 | Tabelas     | [ex023](https://pedrbandeira.github.io/html-css/exercicios/ex023/tabela001.html) [ex023](https://pedrbandeira.github.io/html-css/exercicios/ex023/tabela002.html) [ex023](https://pedrbandeira.github.io/html-css/exercicios/ex023/tabela003.html) [ex023](https://pedrbandeira.github.io/html-css/exercicios/ex023/tabela004.html) [ex023](https://pedrbandeira.github.io/html-css/exercicios/ex023/tabela005.html) [ex023](https://pedrbandeira.github.io/html-css/exercicios/ex023/tabela006.html) |
