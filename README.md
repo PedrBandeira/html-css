@@ -69,7 +69,7 @@ Conteúdo do Curso:
 | Pseudo-classes     | [ex020](https://pedrbandeira.github.io/html-css/exercicios/ex020/pseudoclasses.html) |
 | Desafio | Link     |
 | Desafio História do Android     | [d010](https://pedrbandeira.github.io/html-css/desafios/d010/index.html) |
-|   Desafio Astronauta (não realizado)   | [d011](https://pedrbandeira.github.io/html-css/desafios/d011/index.html) |
+|   Desafio Astronauta   | [d011](https://pedrbandeira.github.io/html-css/desafios/d011/index.html) |
 | Cordel Moderno     | [d012](https://pedrbandeira.github.io/html-css/desafios/d012/index.html) |
 ---
 ### Módulo 3✅
