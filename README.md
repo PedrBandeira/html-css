@@ -1,17 +1,17 @@
 # html-css — Curso de HTML5  e CSS3 do Curso em Vídeo
 
-- [Acessar página incial] (https://pedrbandeira.github.io/html-css)
-- [Acessar repositório] (https://github.com/PedrBandeira/html-css)
-- [Meu perfil no GitHub] (https://github.com/PedrBandeira)
-- [Site do Curso em Vídeo] (https://www.cursoemvideo.com/)
-- [Canal do Curso em Vídeo] (https://www.youtube.com/@CursoemVideo)
-    - [Playlist Módulo 01] (https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=1)
-    - [Playlist Módulo 02] (https://www.youtube.com/watch?v=vPNIAJ9B4hg&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s)
-    - [Playlist Módulo 03] (https://www.youtube.com/watch?v=ofFgnDtn_1c&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ)
-    - [Playlist Módulo 04] (https://www.youtube.com/watch?v=zHKHMmEG9vE&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT)
-    - Playlist Módulo 05 - **Ainda não foi lançado** (última verificação: 25/07/2023) 
-- [Repositório público do Prof. Gustavo Guanabara] (https://gustavoguanabara.github.io/)
-- [Perfil do Prof. Gustavo Guanabara] (https://github.com/gustavoguanabara)
+### Links Úteis
+| Descrição | Link     |
+|    :----:   |  :---: |
+| Acessar página inicial | [acessar link] (https://pedrbandeira.github.io/html-css) |
+| Acessar repositório | [acessar link] (https://github.com/PedrBandeira/html-css) |
+| Meu perfil no GitHub | [acessar link] (https://github.com/PedrBandeira) |
+| Site do Curso em Vídeo | [acessar link] (https://www.cursoemvideo.com/) |
+| Canal do Curso em Vídeo | [acessar link] (https://www.youtube.com/@CursoemVideo)
+| Link das Playlists de Curso HTML5 e CSS3 | [Playlist Módulo 01] (https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=1)  [Playlist Módulo 02] (https://www.youtube.com/watch?v=vPNIAJ9B4hg&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s) [Playlist Módulo 03] (https://www.youtube.com/watch?v=ofFgnDtn_1c&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ) [Playlist Módulo 04] (https://www.youtube.com/watch?v=zHKHMmEG9vE&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT) Playlist Módulo 05 |
+| Repositório público do Prof. Gustavo Guanabara | [acessar link] (https://gustavoguanabara.github.io/) |
+| Perfil do Prof. Gustavo Guanabara | [acessar link] (https://github.com/gustavoguanabara) |
+| Respositório usado no curso | [professorguanabara](https://github.com/professorguanabara) |
 
 ### Tarefas do Curso
 - [x] Módulo 1:
@@ -23,9 +23,9 @@
 - [x] Módulo 3:
     - [x] Exercícios (21/23)
     - [x] Desafios (Não há desafios)
-- [-] Módulo 4:
-    - [-] Exercícios (24/?)
-    - [-] Desafios (13/15)
+- [x] Módulo 4:
+    - [x] Exercícios (24/26)
+    - [x] Desafios (13/16)
 ---
 Conteúdo do Curso:
 ### Módulo 1✅
@@ -91,4 +91,5 @@ Conteúdo do Curso:
 | Desafio 1 - Tabelas     | [d013](https://pedrbandeira.github.io/html-css/desafios/d013/desafio-13-01.html) [d013](https://pedrbandeira.github.io/html-css/desafios/d013/desafio-13-02.html) |
 | Desafio 2 - Tabelas     | [d014](https://pedrbandeira.github.io/html-css/desafios/d014/desafio-14.html) |
 | Desafio 3 - Iframe     | [d015](https://pedrbandeira.github.io/html-css/desafios/d015/index.html) [d015](https://pedrbandeira.github.io/html-css/desafios/d015/facebook.html) [d015](https://pedrbandeira.github.io/html-css/desafios/d015/github.html) [d015](https://pedrbandeira.github.io/html-css/desafios/d015/home.html) [d015](https://pedrbandeira.github.io/html-css/desafios/d015/instagram.html) [d015](https://pedrbandeira.github.io/html-css/desafios/d015/twitter.html) [d015](https://pedrbandeira.github.io/html-css/desafios/d015/youtube.html) |
+| Desafio 3 - Projeto Login | [d016](https://pedrbandeira.github.io/html-css/desafios/d016/index.html) |
 ---
