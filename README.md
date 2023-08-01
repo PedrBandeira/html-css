@@ -8,7 +8,7 @@
 | Meu perfil no GitHub | [acessar link](https://github.com/PedrBandeira) |
 | Site do Curso em Vídeo | [acessar link](https://www.cursoemvideo.com/) |
 | Canal do Curso em Vídeo | [acessar link](https://www.youtube.com/@CursoemVideo)
-| Link das Playlists de Curso HTML5 e CSS3 | [Playlist Módulo 01](https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=1)  [Playlist Módulo 02](https://www.youtube.com/watch?v=vPNIAJ9B4hg&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s) [Playlist Módulo 03](https://www.youtube.com/watch?v=ofFgnDtn_1c&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ) [Playlist Módulo 04](https://www.youtube.com/watch?v=zHKHMmEG9vE&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT) Playlist Módulo 05 |
+| Link das Playlists de Curso HTML5 e CSS3 | [Módulo 01](https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=1)  [Módulo 02](https://www.youtube.com/watch?v=vPNIAJ9B4hg&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s) [Módulo 03](https://www.youtube.com/watch?v=ofFgnDtn_1c&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ) [Módulo 04](https://www.youtube.com/watch?v=zHKHMmEG9vE&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT) [Módulo 05]() |
 | Repositório público do Prof. Gustavo Guanabara | [acessar link](https://gustavoguanabara.github.io/) |
 | Perfil do Prof. Gustavo Guanabara | [acessar link](https://github.com/gustavoguanabara) |
 | Respositório usado no curso | [professorguanabara](https://github.com/professorguanabara) |
